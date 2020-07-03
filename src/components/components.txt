@@ -1,0 +1,1 @@
+components file is used to handle the stateless/ static states which are purely presentational and have no role in updating any element in the DOMS

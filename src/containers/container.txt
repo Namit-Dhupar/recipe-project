@@ -1,0 +1,3 @@
+The containers folder is used to manage the the statefull states, which are dynamic and are repsondible for updates in the DOM elements
+
+ Here, the render() method should take effect
